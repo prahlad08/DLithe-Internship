@@ -1,0 +1,3 @@
+prahlad,1234,fg,98
+kpb,12345,manglore,98
+myname,0,india,98.2
