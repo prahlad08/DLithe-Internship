@@ -20,6 +20,6 @@
 
 
 
-
+Please reload if the notbooks do not load .
 This document is just an index for the project directory meant to ease navigation .
 Please visit the report and notebooks for detailed information.
