@@ -1,0 +1,20 @@
+{
+      "total": 195547579,
+      "male": 105497135,
+      "female": 90016903,
+      "others": 33541,
+      "covishield": 212829323,
+      "covaxin": 28779994,
+      "sputnik": 21992,
+      "today": 3099397,
+      "tot_dose_1": 195547579,
+      "tot_dose_2": 46083730,
+      "total_doses": 241631309,
+      "aefi": 21988,
+      "today_dose_one": 2792752,
+      "today_dose_two": 306645,
+      "today_male": 1731226,
+      "today_female": 1367315,
+      "today_others": 854,
+      "today_aefi": 31
+}
